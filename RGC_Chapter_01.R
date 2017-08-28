@@ -1,5 +1,6 @@
 install.packages("gglot2", "gcookbook")
 library(ggplot2)
+install.packages("gcookbook")
 library(gcookbook)
 
 data <- read.csv("datafile.csv")
